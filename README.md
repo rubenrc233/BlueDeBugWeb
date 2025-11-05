@@ -95,10 +95,8 @@ Las fuentes actuales son Inter y Poppins. Para cambiarlas:
 ## 📞 Información de Contacto
 
 Actualiza estos datos en `index.html`:
-- Email: info@bluedebug.com
-- Teléfono: +34 123 456 789
-- Ubicación: Madrid, España
-- Redes sociales: LinkedIn, Twitter, GitHub, Instagram
+- Email: bluedebug.contact@gmail.com
+- Ubicación: Gijon, España
 
 ## 🌟 Tips para Mejores Resultados
 
@@ -113,5 +111,3 @@ Actualiza estos datos en `index.html`:
 Página web desarrollada para BlueDeBug - 2025
 
 ---
-
-**Desarrollado con ❤️ para transformación digital**
